@@ -1,6 +1,3 @@
-## Automação de Agendamento
+# Automação de Processos
 
-**Problema:** agendamentos manuais sujeitos a conflitos de horário.  
-**Solução:** sistema automatizado com controle de datas e confirmação automática.  
-**Tecnologias:** Python / Google Apps Script  
-**Resultado:** redução de erros e maior organização.
+Repositório com exemplos de automações desenvolvidas em Python e JavaScript para otimização de rotinas administrativas e integração de sistemas.
