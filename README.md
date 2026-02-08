@@ -1,3 +1,3 @@
-# Automação de Processos
+# Business Intelligence & Dashboards
 
-Repositório com exemplos de automações desenvolvidas em Python e JavaScript para otimização de rotinas administrativas e integração de sistemas.
+Projetos de análise e visualização de dados utilizando Power BI para apoio à tomada de decisão.
