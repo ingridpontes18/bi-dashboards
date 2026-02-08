@@ -1,3 +1,6 @@
-# Business Intelligence & Dashboards
+## Automação de Agendamento
 
-Projetos de análise e visualização de dados utilizando Power BI para apoio à tomada de decisão.
+**Problema:** agendamentos manuais sujeitos a conflitos de horário.  
+**Solução:** sistema automatizado com controle de datas e confirmação automática.  
+**Tecnologias:** Python / Google Apps Script  
+**Resultado:** redução de erros e maior organização.
